@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d3dc07d-97ea-480f-b022-6aabd31ac29c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Contours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histrogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houghlinep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houghtransform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motionDetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_maching.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_pyramids.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_pyramids.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canny_edge.py" beforeDir="false" afterPath="$PROJECT_DIR$/canny_edge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +68,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595229899139" />
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595159598796">
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595446768729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595159598796" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595446768729" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
