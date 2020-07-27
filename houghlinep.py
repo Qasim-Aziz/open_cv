@@ -9,7 +9,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('road2.jpg')
+img = cv2.imread('Road/road2.jpg')
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 edges = cv2.Canny(gray, 50, 150, apertureSize=3)
 cv2.imshow('edges', edges)

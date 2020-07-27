@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d3dc07d-97ea-480f-b022-6aabd31ac29c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Contours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/histrogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houghlinep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houghtransform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motionDetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template_maching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Road/detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Road/lines_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facedetect/face_detect.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canny_edge.py" beforeDir="false" afterPath="$PROJECT_DIR$/canny_edge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houghlinep.py" beforeDir="false" afterPath="$PROJECT_DIR$/houghlinep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/road2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Road/road2.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\python3\opencv\Road" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,10 +71,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595229899139" />
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595446768729">
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595835605875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595446768729" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595835605875" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
