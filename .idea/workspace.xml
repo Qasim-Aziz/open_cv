@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d3dc07d-97ea-480f-b022-6aabd31ac29c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Road/detect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Road/lines_video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facedetect/face_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background_substraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harris_corner_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shi_Tomesi_corner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/houghlinep.py" beforeDir="false" afterPath="$PROJECT_DIR$/houghlinep.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/road2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Road/road2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/cv2.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/cv2.cp37-win_amd64.pyd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +66,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595063529741" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1595229899139">
+    <state x="49" y="95" key="SettingsEditor" timestamp="1595842380980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595229899139" />
+    <state x="49" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595842380980" />
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595835605875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
